@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/dragranzer/BMS-MVC/controllers"
+	"github.com/dragranzer/BMS-MVC/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
